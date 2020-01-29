@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Rohith Akhil Rathnam parisa World"
-echo "Rohith Akhil Rathnam parisa"
+echo "Hemanth's World"
+echo "Hemanth's"
